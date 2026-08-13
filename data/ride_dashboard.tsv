@@ -1,0 +1,29 @@
+trip_id	driver_id	customer_id	pickup_location	drop_location	distance_km	fare_amount	fare_per_km	payment_method	trip_status	event_timestamp	ride_date	ride_hour	route
+07efd3eb-0a59-4013-84c1-8d6ca607dea5	1023	2128	Viman Nagar	Hadapsar	6.52	129.55	19.87	Cash	Completed	2026-08-13 08:36:22	2026-08-13	8	Viman Nagar → Hadapsar
+0ae9c56d-cb20-48cd-9834-00d5f88798fa	1014	2005	Koregaon Park	Kalyani Nagar	6.38	174.70	27.38	Wallet	Completed	2026-08-13 08:36:52	2026-08-13	8	Koregaon Park → Kalyani Nagar
+1647b438-4ea6-48ee-95ee-123f38d92d4f	1031	2123	Aundh	Baner	14.79	346.20	23.41	UPI	Completed	2026-08-13 08:36:42	2026-08-13	8	Aundh → Baner
+1689ee3b-993f-4eca-90dd-42f09f3d4ff9	1011	2075	Hinjewadi	Koregaon Park	22.06	352.91	16.00	Card	Completed	2026-08-13 08:36:02	2026-08-13	8	Hinjewadi → Koregaon Park
+1c7491a3-eb66-42a2-8989-ce6703b70dd5	1038	2136	Aundh	Wakad	23.51	425.86	18.11	Cash	Cancelled	2026-08-13 08:36:06	2026-08-13	8	Aundh → Wakad
+25fbe4f3-7618-47ab-ae7d-847e4c97aa61	1002	2113	Baner	Viman Nagar	8.05	168.03	20.87	Wallet	Completed	2026-08-13 08:36:46	2026-08-13	8	Baner → Viman Nagar
+3cac0cbb-95ef-4fec-8298-e571a405be6e	1036	2039	Hinjewadi	Koregaon Park	13.63	282.06	20.69	UPI	Completed	2026-08-13 08:36:10	2026-08-13	8	Hinjewadi → Koregaon Park
+443ed881-d5a2-4b33-ac3e-2d6c0ce8cf66	1014	2075	Koregaon Park	Kharadi	14.24	313.87	22.04	Card	Completed	2026-08-13 08:36:14	2026-08-13	8	Koregaon Park → Kharadi
+494a7426-9bcf-4557-a38a-a8b9c9684b18	1048	2005	Baner	Hinjewadi	23.92	371.49	15.53	UPI	Completed	2026-08-13 08:36:26	2026-08-13	8	Baner → Hinjewadi
+4ab153dd-1284-4309-9b26-3b12d6d237bb	1025	2159	Baner	Viman Nagar	14.13	265.10	18.76	Cash	Completed	2026-08-13 08:36:18	2026-08-13	8	Baner → Viman Nagar
+55b33dac-eb68-4232-ae6a-7b692af04deb	1004	2139	Viman Nagar	Hinjewadi	21.75	443.05	20.37	Card	Completed	2026-08-13 08:36:28	2026-08-13	8	Viman Nagar → Hinjewadi
+6aadfa94-3a5e-4149-b6b3-963d3262f14b	1022	2057	Koregaon Park	Wakad	7.72	152.36	19.74	UPI	Completed	2026-08-13 08:35:58	2026-08-13	8	Koregaon Park → Wakad
+735a3f38-7f90-44b3-8332-1343c4430652	1035	2021	Wakad	Hadapsar	4.62	110.77	23.98	Cash	Completed	2026-08-13 08:36:20	2026-08-13	8	Wakad → Hadapsar
+883344c4-4e75-4186-8298-2ae91332a8bb	1038	2095	Baner	Hadapsar	7.49	211.40	28.22	Wallet	Cancelled	2026-08-13 08:36:36	2026-08-13	8	Baner → Hadapsar
+8873cd49-23b5-4869-931d-e1e69df436e7	1013	2127	Hadapsar	Shivajinagar	8.94	173.98	19.46	Wallet	Completed	2026-08-13 08:36:44	2026-08-13	8	Hadapsar → Shivajinagar
+9924ef12-660c-4257-b7d6-e838f836d3c9	1010	2074	Hinjewadi	Koregaon Park	15.28	296.02	19.37	Card	Completed	2026-08-13 08:36:00	2026-08-13	8	Hinjewadi → Koregaon Park
+b3a3e5d3-ad72-4fd1-83ae-8ad9fd4f3214	1050	2057	Wakad	Hinjewadi	8.57	205.07	23.93	UPI	Completed	2026-08-13 08:36:16	2026-08-13	8	Wakad → Hinjewadi
+b6341eb3-30cd-478b-b580-5d37a3bdf3b1	1020	2196	Hinjewadi	Wakad	10.89	209.48	19.24	Wallet	Completed	2026-08-13 08:36:40	2026-08-13	8	Hinjewadi → Wakad
+bc1452bc-c62d-4b07-8c03-07787f40bafb	1014	2025	Hadapsar	Kharadi	24.81	501.14	20.20	Card	Completed	2026-08-13 08:36:32	2026-08-13	8	Hadapsar → Kharadi
+c00543e7-7a21-4cac-a516-d31e54670464	1018	2121	Hadapsar	Kalyani Nagar	5.79	159.02	27.46	UPI	Cancelled	2026-08-13 08:36:08	2026-08-13	8	Hadapsar → Kalyani Nagar
+c27522dc-4de1-4091-bf49-e1956bcd5244	1028	2187	Kalyani Nagar	Hinjewadi	20.13	455.41	22.62	UPI	Completed	2026-08-13 08:36:34	2026-08-13	8	Kalyani Nagar → Hinjewadi
+c79a0964-cec7-4c9a-a8dc-aaa2f7058447	1044	2090	Wakad	Koregaon Park	12.70	286.52	22.56	UPI	Completed	2026-08-13 08:36:38	2026-08-13	8	Wakad → Koregaon Park
+d02bd67b-702d-448c-bcbb-ad8f8662bc98	1025	2170	Wakad	Shivajinagar	10.56	228.82	21.67	Card	Completed	2026-08-13 08:36:30	2026-08-13	8	Wakad → Shivajinagar
+d93c4039-ae8e-4789-866d-f1351f8f1fea	1030	2045	Wakad	Hadapsar	26.66	474.83	17.81	UPI	Cancelled	2026-08-13 08:36:04	2026-08-13	8	Wakad → Hadapsar
+da5d31d5-2382-4106-adc1-0c13c2a60874	1006	2076	Koregaon Park	Viman Nagar	23.43	515.45	22.00	Wallet	Cancelled	2026-08-13 08:36:50	2026-08-13	8	Koregaon Park → Viman Nagar
+e9f6302a-c1bf-458c-9396-ad7471a70a22	1014	2180	Koregaon Park	Baner	20.10	388.27	19.32	Card	Cancelled	2026-08-13 08:36:48	2026-08-13	8	Koregaon Park → Baner
+ea7812f0-a37b-4b03-94ae-2bb4e1f9f0a7	1046	2052	Viman Nagar	Koregaon Park	24.35	469.53	19.28	Cash	Completed	2026-08-13 08:36:24	2026-08-13	8	Viman Nagar → Koregaon Park
+fc42fbf6-ee9c-4dd1-b8f3-0f4622e38894	1011	2188	Koregaon Park	Aundh	17.50	374.29	21.39	Cash	Cancelled	2026-08-13 08:36:12	2026-08-13	8	Koregaon Park → Aundh
